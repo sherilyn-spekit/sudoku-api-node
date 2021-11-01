@@ -1,0 +1,11 @@
+{
+  "name": "sudoku-api",
+  "version": "1.0.0",
+  "description": "REST API route for sudoku generator and solver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sherilyn Villareal",
+  "license": "ISC"
+}
